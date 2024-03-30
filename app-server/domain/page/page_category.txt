@@ -1,0 +1,12 @@
+// package page
+
+// type pageCategory struct {
+// 	category string
+// }
+
+// func NewPageCategorry(categor string) (*pageCategory, error) {
+// 	categoryMap := map
+
+// 	pageCategory := &pageCategory{}
+
+// } 
