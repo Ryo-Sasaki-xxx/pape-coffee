@@ -3,7 +3,7 @@ package page_test
 import (
 	"testing"
 
-	"github.com/Ryo-Sasaki-xxx/pape_coffee/domain/page"
+	"github.com/Ryo-Sasaki-xxx/pape-coffee/domain/page"
 	"github.com/stretchr/testify/assert"
 )
 
